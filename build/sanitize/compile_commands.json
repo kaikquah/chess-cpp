@@ -1,0 +1,164 @@
+[
+{
+  "directory": "/Users/quahkk/Downloads/chesscpp/build/sanitize/src",
+  "command": "/usr/bin/c++  -I/Users/quahkk/Downloads/chesscpp/src -g -std=c++20 -Wall -Wextra -Wpedantic -fsanitize=address -fsanitize=undefined -o CMakeFiles/chessbot_engine.dir/core/types.cpp.o -c /Users/quahkk/Downloads/chesscpp/src/core/types.cpp",
+  "file": "/Users/quahkk/Downloads/chesscpp/src/core/types.cpp",
+  "output": "src/CMakeFiles/chessbot_engine.dir/core/types.cpp.o"
+},
+{
+  "directory": "/Users/quahkk/Downloads/chesscpp/build/sanitize/src",
+  "command": "/usr/bin/c++  -I/Users/quahkk/Downloads/chesscpp/src -g -std=c++20 -Wall -Wextra -Wpedantic -fsanitize=address -fsanitize=undefined -o CMakeFiles/chessbot_engine.dir/core/bitboard.cpp.o -c /Users/quahkk/Downloads/chesscpp/src/core/bitboard.cpp",
+  "file": "/Users/quahkk/Downloads/chesscpp/src/core/bitboard.cpp",
+  "output": "src/CMakeFiles/chessbot_engine.dir/core/bitboard.cpp.o"
+},
+{
+  "directory": "/Users/quahkk/Downloads/chesscpp/build/sanitize/src",
+  "command": "/usr/bin/c++  -I/Users/quahkk/Downloads/chesscpp/src -g -std=c++20 -Wall -Wextra -Wpedantic -fsanitize=address -fsanitize=undefined -o CMakeFiles/chessbot_engine.dir/engine/board.cpp.o -c /Users/quahkk/Downloads/chesscpp/src/engine/board.cpp",
+  "file": "/Users/quahkk/Downloads/chesscpp/src/engine/board.cpp",
+  "output": "src/CMakeFiles/chessbot_engine.dir/engine/board.cpp.o"
+},
+{
+  "directory": "/Users/quahkk/Downloads/chesscpp/build/sanitize/src",
+  "command": "/usr/bin/c++  -I/Users/quahkk/Downloads/chesscpp/src -g -std=c++20 -Wall -Wextra -Wpedantic -fsanitize=address -fsanitize=undefined -o CMakeFiles/chessbot_engine.dir/engine/move.cpp.o -c /Users/quahkk/Downloads/chesscpp/src/engine/move.cpp",
+  "file": "/Users/quahkk/Downloads/chesscpp/src/engine/move.cpp",
+  "output": "src/CMakeFiles/chessbot_engine.dir/engine/move.cpp.o"
+},
+{
+  "directory": "/Users/quahkk/Downloads/chesscpp/build/sanitize/src",
+  "command": "/usr/bin/c++  -I/Users/quahkk/Downloads/chesscpp/src -g -std=c++20 -Wall -Wextra -Wpedantic -fsanitize=address -fsanitize=undefined -o CMakeFiles/chessbot_engine.dir/engine/attacks.cpp.o -c /Users/quahkk/Downloads/chesscpp/src/engine/attacks.cpp",
+  "file": "/Users/quahkk/Downloads/chesscpp/src/engine/attacks.cpp",
+  "output": "src/CMakeFiles/chessbot_engine.dir/engine/attacks.cpp.o"
+},
+{
+  "directory": "/Users/quahkk/Downloads/chesscpp/build/sanitize/src",
+  "command": "/usr/bin/c++  -I/Users/quahkk/Downloads/chesscpp/src -g -std=c++20 -Wall -Wextra -Wpedantic -fsanitize=address -fsanitize=undefined -o CMakeFiles/chessbot_engine.dir/engine/evaluation.cpp.o -c /Users/quahkk/Downloads/chesscpp/src/engine/evaluation.cpp",
+  "file": "/Users/quahkk/Downloads/chesscpp/src/engine/evaluation.cpp",
+  "output": "src/CMakeFiles/chessbot_engine.dir/engine/evaluation.cpp.o"
+},
+{
+  "directory": "/Users/quahkk/Downloads/chesscpp/build/sanitize/src",
+  "command": "/usr/bin/c++  -I/Users/quahkk/Downloads/chesscpp/src -g -std=c++20 -Wall -Wextra -Wpedantic -fsanitize=address -fsanitize=undefined -o CMakeFiles/chessbot_engine.dir/engine/search.cpp.o -c /Users/quahkk/Downloads/chesscpp/src/engine/search.cpp",
+  "file": "/Users/quahkk/Downloads/chesscpp/src/engine/search.cpp",
+  "output": "src/CMakeFiles/chessbot_engine.dir/engine/search.cpp.o"
+},
+{
+  "directory": "/Users/quahkk/Downloads/chesscpp/build/sanitize/src",
+  "command": "/usr/bin/c++  -I/Users/quahkk/Downloads/chesscpp/src -g -std=c++20 -Wall -Wextra -Wpedantic -fsanitize=address -fsanitize=undefined -o CMakeFiles/chessbot_engine.dir/engine/time_manager.cpp.o -c /Users/quahkk/Downloads/chesscpp/src/engine/time_manager.cpp",
+  "file": "/Users/quahkk/Downloads/chesscpp/src/engine/time_manager.cpp",
+  "output": "src/CMakeFiles/chessbot_engine.dir/engine/time_manager.cpp.o"
+},
+{
+  "directory": "/Users/quahkk/Downloads/chesscpp/build/sanitize/src",
+  "command": "/usr/bin/c++  -I/Users/quahkk/Downloads/chesscpp/src -g -std=c++20 -Wall -Wextra -Wpedantic -fsanitize=address -fsanitize=undefined -o CMakeFiles/chessbot_engine.dir/engine/perft.cpp.o -c /Users/quahkk/Downloads/chesscpp/src/engine/perft.cpp",
+  "file": "/Users/quahkk/Downloads/chesscpp/src/engine/perft.cpp",
+  "output": "src/CMakeFiles/chessbot_engine.dir/engine/perft.cpp.o"
+},
+{
+  "directory": "/Users/quahkk/Downloads/chesscpp/build/sanitize/src",
+  "command": "/usr/bin/c++  -I/Users/quahkk/Downloads/chesscpp/src -g -std=c++20 -Wall -Wextra -Wpedantic -fsanitize=address -fsanitize=undefined -o CMakeFiles/chessbot_engine.dir/engine/zobrist.cpp.o -c /Users/quahkk/Downloads/chesscpp/src/engine/zobrist.cpp",
+  "file": "/Users/quahkk/Downloads/chesscpp/src/engine/zobrist.cpp",
+  "output": "src/CMakeFiles/chessbot_engine.dir/engine/zobrist.cpp.o"
+},
+{
+  "directory": "/Users/quahkk/Downloads/chesscpp/build/sanitize/src",
+  "command": "/usr/bin/c++  -I/Users/quahkk/Downloads/chesscpp/src -g -std=c++20 -Wall -Wextra -Wpedantic -fsanitize=address -fsanitize=undefined -o CMakeFiles/chessbot_engine.dir/engine/engine.cpp.o -c /Users/quahkk/Downloads/chesscpp/src/engine/engine.cpp",
+  "file": "/Users/quahkk/Downloads/chesscpp/src/engine/engine.cpp",
+  "output": "src/CMakeFiles/chessbot_engine.dir/engine/engine.cpp.o"
+},
+{
+  "directory": "/Users/quahkk/Downloads/chesscpp/build/sanitize/src",
+  "command": "/usr/bin/c++  -I/Users/quahkk/Downloads/chesscpp/src -g -std=c++20 -Wall -Wextra -Wpedantic -fsanitize=address -fsanitize=undefined -o CMakeFiles/chessbot_engine.dir/uci/options.cpp.o -c /Users/quahkk/Downloads/chesscpp/src/uci/options.cpp",
+  "file": "/Users/quahkk/Downloads/chesscpp/src/uci/options.cpp",
+  "output": "src/CMakeFiles/chessbot_engine.dir/uci/options.cpp.o"
+},
+{
+  "directory": "/Users/quahkk/Downloads/chesscpp/build/sanitize/src",
+  "command": "/usr/bin/c++  -I/Users/quahkk/Downloads/chesscpp/src -g -std=c++20 -Wall -Wextra -Wpedantic -fsanitize=address -fsanitize=undefined -o CMakeFiles/chessbot_engine.dir/uci/uci.cpp.o -c /Users/quahkk/Downloads/chesscpp/src/uci/uci.cpp",
+  "file": "/Users/quahkk/Downloads/chesscpp/src/uci/uci.cpp",
+  "output": "src/CMakeFiles/chessbot_engine.dir/uci/uci.cpp.o"
+},
+{
+  "directory": "/Users/quahkk/Downloads/chesscpp/build/sanitize/src",
+  "command": "/usr/bin/c++  -I/Users/quahkk/Downloads/chesscpp/src -g -std=c++20 -Wall -Wextra -Wpedantic -fsanitize=address -fsanitize=undefined -o CMakeFiles/chessbot.dir/apps/chessbot/main.cpp.o -c /Users/quahkk/Downloads/chesscpp/src/apps/chessbot/main.cpp",
+  "file": "/Users/quahkk/Downloads/chesscpp/src/apps/chessbot/main.cpp",
+  "output": "src/CMakeFiles/chessbot.dir/apps/chessbot/main.cpp.o"
+},
+{
+  "directory": "/Users/quahkk/Downloads/chesscpp/build/sanitize/src",
+  "command": "/usr/bin/c++  -I/Users/quahkk/Downloads/chesscpp/src -g -std=c++20 -Wall -Wextra -Wpedantic -fsanitize=address -fsanitize=undefined -o CMakeFiles/perft_tool.dir/apps/perft/main.cpp.o -c /Users/quahkk/Downloads/chesscpp/src/apps/perft/main.cpp",
+  "file": "/Users/quahkk/Downloads/chesscpp/src/apps/perft/main.cpp",
+  "output": "src/CMakeFiles/perft_tool.dir/apps/perft/main.cpp.o"
+},
+{
+  "directory": "/Users/quahkk/Downloads/chesscpp/build/sanitize/tests",
+  "command": "/usr/bin/c++ -DCHESSBOT_BINARY_DIR=\\\"/Users/quahkk/Downloads/chesscpp/build/sanitize\\\" -DCHESSBOT_SOURCE_DIR=\\\"/Users/quahkk/Downloads/chesscpp\\\" -I/Users/quahkk/Downloads/chesscpp/src -I/Users/quahkk/Downloads/chesscpp/tests/unit -g -std=c++20 -Wall -Wextra -Wpedantic -fsanitize=address -fsanitize=undefined -o CMakeFiles/chessbot_tests.dir/unit/main.cpp.o -c /Users/quahkk/Downloads/chesscpp/tests/unit/main.cpp",
+  "file": "/Users/quahkk/Downloads/chesscpp/tests/unit/main.cpp",
+  "output": "tests/CMakeFiles/chessbot_tests.dir/unit/main.cpp.o"
+},
+{
+  "directory": "/Users/quahkk/Downloads/chesscpp/build/sanitize/tests",
+  "command": "/usr/bin/c++ -DCHESSBOT_BINARY_DIR=\\\"/Users/quahkk/Downloads/chesscpp/build/sanitize\\\" -DCHESSBOT_SOURCE_DIR=\\\"/Users/quahkk/Downloads/chesscpp\\\" -I/Users/quahkk/Downloads/chesscpp/src -I/Users/quahkk/Downloads/chesscpp/tests/unit -g -std=c++20 -Wall -Wextra -Wpedantic -fsanitize=address -fsanitize=undefined -o CMakeFiles/chessbot_tests.dir/unit/bitboard_tests.cpp.o -c /Users/quahkk/Downloads/chesscpp/tests/unit/bitboard_tests.cpp",
+  "file": "/Users/quahkk/Downloads/chesscpp/tests/unit/bitboard_tests.cpp",
+  "output": "tests/CMakeFiles/chessbot_tests.dir/unit/bitboard_tests.cpp.o"
+},
+{
+  "directory": "/Users/quahkk/Downloads/chesscpp/build/sanitize/tests",
+  "command": "/usr/bin/c++ -DCHESSBOT_BINARY_DIR=\\\"/Users/quahkk/Downloads/chesscpp/build/sanitize\\\" -DCHESSBOT_SOURCE_DIR=\\\"/Users/quahkk/Downloads/chesscpp\\\" -I/Users/quahkk/Downloads/chesscpp/src -I/Users/quahkk/Downloads/chesscpp/tests/unit -g -std=c++20 -Wall -Wextra -Wpedantic -fsanitize=address -fsanitize=undefined -o CMakeFiles/chessbot_tests.dir/unit/board_tests.cpp.o -c /Users/quahkk/Downloads/chesscpp/tests/unit/board_tests.cpp",
+  "file": "/Users/quahkk/Downloads/chesscpp/tests/unit/board_tests.cpp",
+  "output": "tests/CMakeFiles/chessbot_tests.dir/unit/board_tests.cpp.o"
+},
+{
+  "directory": "/Users/quahkk/Downloads/chesscpp/build/sanitize/tests",
+  "command": "/usr/bin/c++ -DCHESSBOT_BINARY_DIR=\\\"/Users/quahkk/Downloads/chesscpp/build/sanitize\\\" -DCHESSBOT_SOURCE_DIR=\\\"/Users/quahkk/Downloads/chesscpp\\\" -I/Users/quahkk/Downloads/chesscpp/src -I/Users/quahkk/Downloads/chesscpp/tests/unit -g -std=c++20 -Wall -Wextra -Wpedantic -fsanitize=address -fsanitize=undefined -o CMakeFiles/chessbot_tests.dir/unit/move_tests.cpp.o -c /Users/quahkk/Downloads/chesscpp/tests/unit/move_tests.cpp",
+  "file": "/Users/quahkk/Downloads/chesscpp/tests/unit/move_tests.cpp",
+  "output": "tests/CMakeFiles/chessbot_tests.dir/unit/move_tests.cpp.o"
+},
+{
+  "directory": "/Users/quahkk/Downloads/chesscpp/build/sanitize/tests",
+  "command": "/usr/bin/c++ -DCHESSBOT_BINARY_DIR=\\\"/Users/quahkk/Downloads/chesscpp/build/sanitize\\\" -DCHESSBOT_SOURCE_DIR=\\\"/Users/quahkk/Downloads/chesscpp\\\" -I/Users/quahkk/Downloads/chesscpp/src -I/Users/quahkk/Downloads/chesscpp/tests/unit -g -std=c++20 -Wall -Wextra -Wpedantic -fsanitize=address -fsanitize=undefined -o CMakeFiles/chessbot_tests.dir/unit/attacks_tests.cpp.o -c /Users/quahkk/Downloads/chesscpp/tests/unit/attacks_tests.cpp",
+  "file": "/Users/quahkk/Downloads/chesscpp/tests/unit/attacks_tests.cpp",
+  "output": "tests/CMakeFiles/chessbot_tests.dir/unit/attacks_tests.cpp.o"
+},
+{
+  "directory": "/Users/quahkk/Downloads/chesscpp/build/sanitize/tests",
+  "command": "/usr/bin/c++ -DCHESSBOT_BINARY_DIR=\\\"/Users/quahkk/Downloads/chesscpp/build/sanitize\\\" -DCHESSBOT_SOURCE_DIR=\\\"/Users/quahkk/Downloads/chesscpp\\\" -I/Users/quahkk/Downloads/chesscpp/src -I/Users/quahkk/Downloads/chesscpp/tests/unit -g -std=c++20 -Wall -Wextra -Wpedantic -fsanitize=address -fsanitize=undefined -o CMakeFiles/chessbot_tests.dir/unit/movegen_tests.cpp.o -c /Users/quahkk/Downloads/chesscpp/tests/unit/movegen_tests.cpp",
+  "file": "/Users/quahkk/Downloads/chesscpp/tests/unit/movegen_tests.cpp",
+  "output": "tests/CMakeFiles/chessbot_tests.dir/unit/movegen_tests.cpp.o"
+},
+{
+  "directory": "/Users/quahkk/Downloads/chesscpp/build/sanitize/tests",
+  "command": "/usr/bin/c++ -DCHESSBOT_BINARY_DIR=\\\"/Users/quahkk/Downloads/chesscpp/build/sanitize\\\" -DCHESSBOT_SOURCE_DIR=\\\"/Users/quahkk/Downloads/chesscpp\\\" -I/Users/quahkk/Downloads/chesscpp/src -I/Users/quahkk/Downloads/chesscpp/tests/unit -g -std=c++20 -Wall -Wextra -Wpedantic -fsanitize=address -fsanitize=undefined -o CMakeFiles/chessbot_tests.dir/unit/perft_tests.cpp.o -c /Users/quahkk/Downloads/chesscpp/tests/unit/perft_tests.cpp",
+  "file": "/Users/quahkk/Downloads/chesscpp/tests/unit/perft_tests.cpp",
+  "output": "tests/CMakeFiles/chessbot_tests.dir/unit/perft_tests.cpp.o"
+},
+{
+  "directory": "/Users/quahkk/Downloads/chesscpp/build/sanitize/tests",
+  "command": "/usr/bin/c++ -DCHESSBOT_BINARY_DIR=\\\"/Users/quahkk/Downloads/chesscpp/build/sanitize\\\" -DCHESSBOT_SOURCE_DIR=\\\"/Users/quahkk/Downloads/chesscpp\\\" -I/Users/quahkk/Downloads/chesscpp/src -I/Users/quahkk/Downloads/chesscpp/tests/unit -g -std=c++20 -Wall -Wextra -Wpedantic -fsanitize=address -fsanitize=undefined -o CMakeFiles/chessbot_tests.dir/unit/evaluation_tests.cpp.o -c /Users/quahkk/Downloads/chesscpp/tests/unit/evaluation_tests.cpp",
+  "file": "/Users/quahkk/Downloads/chesscpp/tests/unit/evaluation_tests.cpp",
+  "output": "tests/CMakeFiles/chessbot_tests.dir/unit/evaluation_tests.cpp.o"
+},
+{
+  "directory": "/Users/quahkk/Downloads/chesscpp/build/sanitize/tests",
+  "command": "/usr/bin/c++ -DCHESSBOT_BINARY_DIR=\\\"/Users/quahkk/Downloads/chesscpp/build/sanitize\\\" -DCHESSBOT_SOURCE_DIR=\\\"/Users/quahkk/Downloads/chesscpp\\\" -I/Users/quahkk/Downloads/chesscpp/src -I/Users/quahkk/Downloads/chesscpp/tests/unit -g -std=c++20 -Wall -Wextra -Wpedantic -fsanitize=address -fsanitize=undefined -o CMakeFiles/chessbot_tests.dir/unit/search_tests.cpp.o -c /Users/quahkk/Downloads/chesscpp/tests/unit/search_tests.cpp",
+  "file": "/Users/quahkk/Downloads/chesscpp/tests/unit/search_tests.cpp",
+  "output": "tests/CMakeFiles/chessbot_tests.dir/unit/search_tests.cpp.o"
+},
+{
+  "directory": "/Users/quahkk/Downloads/chesscpp/build/sanitize/tests",
+  "command": "/usr/bin/c++ -DCHESSBOT_BINARY_DIR=\\\"/Users/quahkk/Downloads/chesscpp/build/sanitize\\\" -DCHESSBOT_SOURCE_DIR=\\\"/Users/quahkk/Downloads/chesscpp\\\" -I/Users/quahkk/Downloads/chesscpp/src -I/Users/quahkk/Downloads/chesscpp/tests/unit -g -std=c++20 -Wall -Wextra -Wpedantic -fsanitize=address -fsanitize=undefined -o CMakeFiles/chessbot_tests.dir/unit/time_manager_tests.cpp.o -c /Users/quahkk/Downloads/chesscpp/tests/unit/time_manager_tests.cpp",
+  "file": "/Users/quahkk/Downloads/chesscpp/tests/unit/time_manager_tests.cpp",
+  "output": "tests/CMakeFiles/chessbot_tests.dir/unit/time_manager_tests.cpp.o"
+},
+{
+  "directory": "/Users/quahkk/Downloads/chesscpp/build/sanitize/tests",
+  "command": "/usr/bin/c++ -DCHESSBOT_BINARY_DIR=\\\"/Users/quahkk/Downloads/chesscpp/build/sanitize\\\" -DCHESSBOT_SOURCE_DIR=\\\"/Users/quahkk/Downloads/chesscpp\\\" -I/Users/quahkk/Downloads/chesscpp/src -I/Users/quahkk/Downloads/chesscpp/tests/unit -g -std=c++20 -Wall -Wextra -Wpedantic -fsanitize=address -fsanitize=undefined -o CMakeFiles/chessbot_tests.dir/unit/cli_tests.cpp.o -c /Users/quahkk/Downloads/chesscpp/tests/unit/cli_tests.cpp",
+  "file": "/Users/quahkk/Downloads/chesscpp/tests/unit/cli_tests.cpp",
+  "output": "tests/CMakeFiles/chessbot_tests.dir/unit/cli_tests.cpp.o"
+},
+{
+  "directory": "/Users/quahkk/Downloads/chesscpp/build/sanitize/tests",
+  "command": "/usr/bin/c++ -DCHESSBOT_BINARY_DIR=\\\"/Users/quahkk/Downloads/chesscpp/build/sanitize\\\" -DCHESSBOT_SOURCE_DIR=\\\"/Users/quahkk/Downloads/chesscpp\\\" -I/Users/quahkk/Downloads/chesscpp/src -I/Users/quahkk/Downloads/chesscpp/tests/unit -g -std=c++20 -Wall -Wextra -Wpedantic -fsanitize=address -fsanitize=undefined -o CMakeFiles/chessbot_tests.dir/unit/uci_tests.cpp.o -c /Users/quahkk/Downloads/chesscpp/tests/unit/uci_tests.cpp",
+  "file": "/Users/quahkk/Downloads/chesscpp/tests/unit/uci_tests.cpp",
+  "output": "tests/CMakeFiles/chessbot_tests.dir/unit/uci_tests.cpp.o"
+}
+]

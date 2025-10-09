@@ -1,0 +1,6 @@
+setoption name TimeSafetyMargin value 120
+position startpos moves e2e4 e7e5
+board
+status
+go depth 2
+quit

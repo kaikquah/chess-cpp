@@ -1,0 +1,13 @@
+/Users/quahkk/Downloads/chesscpp/build/sanitize/CMakeFiles/test.dir
+/Users/quahkk/Downloads/chesscpp/build/sanitize/CMakeFiles/edit_cache.dir
+/Users/quahkk/Downloads/chesscpp/build/sanitize/CMakeFiles/rebuild_cache.dir
+/Users/quahkk/Downloads/chesscpp/build/sanitize/src/CMakeFiles/chessbot_engine.dir
+/Users/quahkk/Downloads/chesscpp/build/sanitize/src/CMakeFiles/chessbot.dir
+/Users/quahkk/Downloads/chesscpp/build/sanitize/src/CMakeFiles/perft_tool.dir
+/Users/quahkk/Downloads/chesscpp/build/sanitize/src/CMakeFiles/test.dir
+/Users/quahkk/Downloads/chesscpp/build/sanitize/src/CMakeFiles/edit_cache.dir
+/Users/quahkk/Downloads/chesscpp/build/sanitize/src/CMakeFiles/rebuild_cache.dir
+/Users/quahkk/Downloads/chesscpp/build/sanitize/tests/CMakeFiles/chessbot_tests.dir
+/Users/quahkk/Downloads/chesscpp/build/sanitize/tests/CMakeFiles/test.dir
+/Users/quahkk/Downloads/chesscpp/build/sanitize/tests/CMakeFiles/edit_cache.dir
+/Users/quahkk/Downloads/chesscpp/build/sanitize/tests/CMakeFiles/rebuild_cache.dir

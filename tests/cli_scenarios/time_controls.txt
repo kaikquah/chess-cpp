@@ -1,0 +1,9 @@
+setoption name Debug Log value true
+setoption name MoveOverhead value 25
+setoption name TimeSafetyMargin value 10
+position startpos moves e2e4 e7e5 g1f3 b8c6
+status
+go wtime 3000 btime 1500 winc 500 binc 100 movestogo 12
+trace on
+go movetime 200
+quit

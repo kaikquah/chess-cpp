@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names -fsanitize=address -fsanitize=undefined CMakeFiles/perft_tool.dir/apps/perft/main.cpp.o -o chessbot-perft  libchessbot_engine.a

@@ -1,0 +1,82 @@
+Start testing: Oct 09 17:23 +08
+----------------------------------------------------------
+1/1 Testing: chessbot-unit-tests
+1/1 Test: chessbot-unit-tests
+Command: "/Users/quahkk/Downloads/chesscpp/build/tests/chessbot-tests"
+Directory: /Users/quahkk/Downloads/chesscpp/build/tests
+"chessbot-unit-tests" start time: Oct 09 17:23 +08
+Output:
+----------------------------------------------------------
+[PASS] bit_helper_creates_expected_bitboards
+[PASS] north_and_south_shifts_behave
+[PASS] horizontal_shifts_mask_edges
+[PASS] diagonal_shifts_respect_board_edges
+[PASS] file_and_rank_masks_match_expectations
+[PASS] pop_lsb_returns_first_square_and_clears_bit
+[PASS] lsb_and_popcount_are_consistent
+[PASS] square_helpers_produce_expected_indices
+[PASS] piece_helpers_map_between_types_and_colors
+[PASS] empty_board_round_trip
+[PASS] start_position_round_trip
+[PASS] fen_parsing_various_positions
+[PASS] en_passant_file_is_respected
+[PASS] hash_changes_when_state_changes
+[PASS] invalid_fen_inputs_throw
+[PASS] move_encodes_core_fields
+[PASS] move_handles_promotion_and_flags
+[PASS] move_list_collects_moves
+[PASS] move_rejects_invalid_input
+[PASS] knight_and_king_attacks_match_masks
+[PASS] pawn_pushes_respect_occupancy
+[PASS] sliding_attacks_stop_at_blockers
+[PASS] start_position_move_counts
+[PASS] en_passant_is_generated_and_applied
+[PASS] castling_moves_require_clear_path_and_safety
+[PASS] legal_moves_filter_pinned_piece
+[PASS] make_and_unmake_restore_state
+[PASS] invalid_en_passant_does_not_mutate_board
+[PASS] castling_without_rook_is_rejected
+[PASS] castling_without_rights_is_rejected
+[PASS] perft_start_position_baseline
+[PASS] perft_kiwipete_reference
+[PASS] perft_chessprogramming_board3
+[PASS] perft_chessprogramming_board4
+[PASS] perft_chessprogramming_board5
+[PASS] perft_chessprogramming_board6
+[PASS] perft_en_passant_and_underpromotion
+[PASS] perft_endgame_mate_depth6
+[PASS] perft_en_passant_depth6
+[PASS] evaluation_start_position_tempo_bias
+[PASS] evaluation_detects_material_edge
+[PASS] evaluation_side_to_move_orientation
+[PASS] evaluation_logging_reports_expected_breakdown
+[PASS] search_prefers_immediate_capture
+[PASS] search_detects_root_stalemate
+[PASS] search_honors_node_limit
+[PASS] engine_handles_position_and_search
+[PASS] search_respects_time_limit
+[PASS] quiescence_allows_quiet_evasions_when_in_check
+[PASS] time_manager_applies_overhead_and_margin_to_movetime
+[PASS] time_manager_handles_increment_only_clock
+[PASS] time_manager_reserves_overhead_from_remaining_time
+[PASS] time_manager_scales_overhead_when_time_is_tiny
+[PASS] time_manager_regression_matrix
+[PASS] cli_basic_script_executes
+[PASS] cli_time_controls_trace
+[PASS] uci_basic_handshake_and_go
+[PASS] uci_go_with_time_controls
+[PASS] uci_setoption_and_ponder_flow
+[PASS] uci_debug_command
+[PASS] uci_movetime_uses_time_manager
+[PASS] uci_increment_only_time_budget
+[PASS] uci_eval_logging_breakdown
+63/63 tests passed
+<end of output>
+Test time =  12.29 sec
+----------------------------------------------------------
+Test Passed.
+"chessbot-unit-tests" end time: Oct 09 17:23 +08
+"chessbot-unit-tests" time elapsed: 00:00:12
+----------------------------------------------------------
+
+End testing: Oct 09 17:23 +08

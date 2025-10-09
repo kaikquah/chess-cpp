@@ -1,0 +1,9 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/quahkk/Downloads/chesscpp/build/default/cmake_install.cmake",
+		"/Users/quahkk/Downloads/chesscpp/build/default/src/cmake_install.cmake",
+		"/Users/quahkk/Downloads/chesscpp/build/default/tests/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
