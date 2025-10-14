@@ -166,7 +166,7 @@ struct PrecomputedTables {
       const Square square = static_cast<Square>(sq);
       const Square flipped = flip_square(square);
 
-      // White tables mirror the reference tables vertically; black uses direct indices.
+      // White tables mirror the reference tables vertically. black uses direct indices.
       const auto idx = square_index(square);
       const auto flipped_idx = square_index(flipped);
 
