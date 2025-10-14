@@ -291,7 +291,7 @@ int Search::negamax(Board& board, int depth, int ply_from_root, int alpha, int b
 
     repetition_hashes_.push_back(board.hash());
     std::vector<Move> child_pv;
-    const int score = -negamax(board, depth - 1, ply_from_root + 1, -beta, -current_alpha, child_pv);
+    const int score = -negamax(board, depth - 1, ply_from_root + 1, -beta, -current_alpha, child_pv); // alpha beta 
     repetition_hashes_.pop_back();
     board.unmake_move(move, state);
 
@@ -316,6 +316,7 @@ int Search::negamax(Board& board, int depth, int ply_from_root, int alpha, int b
       current_alpha = score;
     }
 
+    // alpha beta
     if (current_alpha >= beta) {
       if (!move.is_capture()) {
         store_killer(ply_from_root, move);
