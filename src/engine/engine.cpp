@@ -25,7 +25,7 @@ Engine::Engine() : search_(config_) {
 }
 
 std::string Engine::name() const {
-  return "ChessBot MVP";
+  return "ChessBot";
 }
 
 void Engine::set_search_config(const SearchConfig& config) {
